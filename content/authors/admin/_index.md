@@ -76,7 +76,7 @@ skills:
       - name: Sport
         description: ''
         percent: 70
-        icon: sport
+        icon: dumbbel
         icon_pack: fas
       - name: Rafting on the river
         description: ''
