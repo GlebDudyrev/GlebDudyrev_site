@@ -22,29 +22,27 @@ role: DS at home and student in RUDN
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
-    url: https://www.stanford.edu/
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer science, data science, ML and DL.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Information Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Data Science profession
+      institution: SkillFactory
+      year: 2023
+    - course: Applied Computer Science
+      institution: RUDN
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,12 +51,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 50
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -75,15 +73,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Sport
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: sport
         icon_pack: fas
-      - name: Photography
+      - name: Rafting on the river
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 70
+        icon: boat
         icon_pack: fas
 
 # Social/Academic Networking
