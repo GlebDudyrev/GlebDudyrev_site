@@ -65,7 +65,7 @@ sections:
         - title: DataScientist
           company: Моторика
           company_url: 'https://motorica.org/'
-          location: California
+          location: Москва
           date_start: '2024-05-01'
           date_end: ''
           description: |2-
