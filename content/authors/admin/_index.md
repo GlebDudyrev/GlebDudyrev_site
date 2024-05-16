@@ -37,17 +37,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Data Science profession
+    - course: Data Science
       institution: SkillFactory
       year: 2023
-    - course: Applied Computer Science
+    - course: Прикладная информатика
       institution: RUDN
       year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Технические
     items:
       - name: Python
         description: ''
@@ -64,21 +64,21 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Кулинария
         description: ''
         percent: 60
         icon:
         icon_pack:
-      - name: Sport
+      - name: Спорт
         description: ''
         percent: 70
         icon:
         icon_pack:
-      - name: Rafting on the river
+      - name: Активный туризм
         description: ''
         percent: 70
         icon:
