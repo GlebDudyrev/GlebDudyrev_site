@@ -29,10 +29,9 @@ bio: My research interests include computer science, data science, ML and DL.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Искуственный интелект
   - Machine Learning
   - Deep Learning
-  - Information Security
 
 # Education to show in About widget
 education:
