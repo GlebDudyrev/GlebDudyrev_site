@@ -71,18 +71,18 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
+        icon:
+        icon_pack:
       - name: Sport
         description: ''
         percent: 70
-        icon: dumbbel
-        icon_pack: fas
+        icon:
+        icon_pack:
       - name: Rafting on the river
         description: ''
         percent: 70
-        icon: boat
-        icon_pack: fas
+        icon:
+        icon_pack:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
