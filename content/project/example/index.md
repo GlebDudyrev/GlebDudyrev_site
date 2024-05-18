@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.youtube.com/playlist?list=PL2HE0LMxgEGmvM8U8-snDvTUQf6yaABZr
 url_code: ''
 url_pdf: ''
 url_slides: ''
