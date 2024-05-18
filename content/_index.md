@@ -131,7 +131,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Проекты
       filters:
         folders:
           - project
@@ -157,7 +157,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Галлерея
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -166,7 +166,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Будущие публикации
       filters:
         folders:
           - publication
@@ -176,7 +176,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Недавние публикации
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -188,25 +188,10 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Контакты
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
